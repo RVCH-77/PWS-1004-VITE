@@ -27,7 +27,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+       Por favor regresa valeria, por favor regresa mi amor
       </p>
       <PWABadge />
     </>
